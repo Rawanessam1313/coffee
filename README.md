@@ -10,4 +10,4 @@ A responsive, modern coffee shop website built using HTML, CSS, JavaScript, and 
 
 
 
-![](/images/)
+![](/images/project1_image.png)
